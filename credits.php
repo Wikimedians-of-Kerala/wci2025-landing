@@ -13,7 +13,7 @@
         <h2>Image Credits</h2>
         <ul>
             <li>
-                <a href="https://commons.wikimedia.org/wiki/File:Chinese_Fishing_Nets_Cochin.jpg">Chinese Fishing Nets</a> by <a href="https://www.flickr.com/people/32659528@N00">Brian Snelson</a>
+                <a href="https://commons.wikimedia.org/wiki/File:Chinese_Fishing_Nets_with_Blue_Cloudy_Sky_in_Background_at_Fort_Kochi,_Kerala,_India.jpg">Chinese Fishing Nets</a> by Kreativeart
             </li>
             <li>
                 <a href="https://commons.wikimedia.org/wiki/File:Kettukazhcha_Full.JPG">Kettukazhcha</a> by <a href="https://commons.wikimedia.org/wiki/User:Ranjithsiji">Ranjithsiji</a>
