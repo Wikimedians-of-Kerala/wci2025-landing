@@ -1,6 +1,6 @@
 <!-- Top Bar Menu -->
     <div class="top-bar">
-      <div class="logo">Wiki Conference India 2025</div>
+      <div class="logo"><a href="index.php">Wiki Conference India 2025</a></div>
       <nav>
         <a href="index.php">Home</a>
         <a href="about.php">About</a>
