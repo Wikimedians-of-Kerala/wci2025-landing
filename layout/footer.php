@@ -1,5 +1,5 @@
 <!-- Footer -->
-    <div class="footer"> &copy; <?php  echo ( date('Y')); ?>
+    <div class="footer"> &copy; <?php  echo ( date('Y')); ?> Wiki Conference India 2025
     </div>
 
     <script>
@@ -12,7 +12,6 @@
         currentIndex = (currentIndex + 1) % images.length;
         images[currentIndex].classList.add("active");
       }
-
       setInterval(changeImage, 5000); // Change image every 5 seconds
     </script>
 </html>
