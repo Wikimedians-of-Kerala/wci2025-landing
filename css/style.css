@@ -57,7 +57,10 @@ html {
     font-weight: bold;
     margin-left: 25px;
 }
-
+.top-bar .logo a {
+    color: aliceblue;
+    font-weight: bold;
+}
 .top-bar nav a {
     color: white;
     text-decoration: none;
